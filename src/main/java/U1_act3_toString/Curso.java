@@ -1,4 +1,4 @@
-package U1_tp2_toString;
+package U1_act3_toString;
 
 import lombok.Getter;
 import lombok.Setter;

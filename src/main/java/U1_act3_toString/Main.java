@@ -1,4 +1,4 @@
-package U1_tp2_toString;
+package U1_act3_toString;
 
 public class Main {
     public static void main(String[] args) {
