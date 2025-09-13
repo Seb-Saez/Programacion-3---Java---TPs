@@ -1,4 +1,4 @@
-package tp3_equals_hashcode;
+package U1_tp3y4_equals_hashcode;
 
 import java.util.ArrayList;
 import java.util.List;

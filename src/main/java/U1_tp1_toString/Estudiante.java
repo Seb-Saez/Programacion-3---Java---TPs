@@ -1,4 +1,4 @@
-package tp1_toString;
+package U1_tp1_toString;
 
 public class Estudiante extends Persona{
     private String carrera;
