@@ -10,7 +10,7 @@ public class Main {
         System.out.println(cString);
 
         // caja int
-        System.out.println("Imprimimos la caja integer");
+        System.out.println("--- Imprimimos la caja integer");
         Caja<Integer> cInt = new Caja<>();
         cInt.setContenido(55);
         System.out.println(cInt);
